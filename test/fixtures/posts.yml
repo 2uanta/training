@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: The first post
+  blurb: This post won't be about very much at all.
+  body: So, here is a meanigless post.
+
+two:
+  title: The second post
+  blurb: There had to be two, didnt there?
+  body: Yes, yiu guessed it, this is the second post.
